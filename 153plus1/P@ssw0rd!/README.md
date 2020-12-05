@@ -9,4 +9,4 @@ Using [XOR cipher](https://www.dcode.fr/xor-cipher) on password gives a followin
 
 and after cleaning up we have a flag
 
-flag[HASLOTRUDNIEJSZEJAKMYSLISZ]
+flag{HASLOTRUDNIEJSZEJAKMYSLISZ}
