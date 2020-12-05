@@ -1,1 +1,1 @@
-siema
+siema to sa ctfy teamu Łączność przyszłość
