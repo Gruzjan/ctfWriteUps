@@ -1,2 +1,2 @@
-#Sanity check: 7 points
+# Sanity check: 7 points
 FLAG{SanityCheck}
