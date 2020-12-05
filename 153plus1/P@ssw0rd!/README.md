@@ -8,4 +8,5 @@ Using [XOR cipher](https://www.dcode.fr/xor-cipher) on password gives a followin
 <ROOT�����������flag[HASLOTRUDNIEJSZEJAKMYSLISZ]
 
 and after cleaning up we have a flag
+
 flag[HASLOTRUDNIEJSZEJAKMYSLISZ]
