@@ -2,7 +2,7 @@
 **Category**: Stegano \
 **Points**: 10
 
-## Desciption
+## Description
 bzzzzzz.... \
 [bz.wav](bz.wav)
 
