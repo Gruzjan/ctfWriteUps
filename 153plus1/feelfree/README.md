@@ -2,7 +2,7 @@
 **Category**: Stegano \
 **Points**: 10
 
-## Desciption
+## Description
 bzzzzzz.... \
 [bz.wav](bz.wav)
 
@@ -11,4 +11,5 @@ Using [sonic visualiser](https://www.sonicvisualiser.org) we check spectrogram t
 
 ![](https://github.com/Gruzjan/ctfWriteUps/blob/feel-free/153plus1/feelfree/bz.PNG)
 
-**FLAG**: FLAG{fr33point5}
+## FLAG 
+FLAG{fr33point5}
