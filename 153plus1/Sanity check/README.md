@@ -2,7 +2,7 @@
 **Category**: Misc \
 **Points**: 7
 
-## Desciption
+## Description
 FLAG{SanityCheck}
 
 ## FLAG
