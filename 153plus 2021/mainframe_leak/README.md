@@ -6,7 +6,7 @@
 Nasi agenci przechwycili ten zdekompilowany kod, który wedle naszych ustaleń powinien generować flagę. Czy jesteś w stanie ją odzyskać?
 
 ## Solution
-After downloading the file, we are presented with a code that resembles Python Assembly code. My first thought was to find a tool that will convert it to normal Python. Some time passed, and I found a tool on PyPI called xasm. Unfortunetly, it used slightly different format than what was in the challenge and I had no way to make it work. At that point, I decided to do it by hand with the help of dis module. The idea was to disassemble to program after writing every line of code and compare it with given input. Through trial and error (and Python docs) I managed to write this piece of code which generates the flag.
+After downloading the file, we are presented with a code that resembles Python Assembly code. My first thought was to find a tool that will convert it to normal Python. Some time passed, and I found a tool on PyPI called xasm. Unfortunetly, it used slightly different format than what was in the challenge and I had no way to make it work. At that point, I decided to do it by hand with the help of dis module. The idea was to disassemble the program after writing every line of code and compare it with given input. Through trial and error (and Python docs) I managed to write this piece of code which generates the flag.
 
 ```py
 import dis
@@ -27,5 +27,5 @@ print(dis.dis(main))
 print(main())
 ```
 
-## Flag
+## FLAG
 flag{dis_some_real_displeasure}
