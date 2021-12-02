@@ -14,7 +14,7 @@ We are given an ELF file which doesn't generate any output. Looking at the assem
 > px @rbp-0x50
 ```
 
-[radare output](1.png)
+![radare output](1.png)
 
 ## FLAG
 flag{debuguj_2_srodka_pliku_binarnego}
